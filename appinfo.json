@@ -1,0 +1,22 @@
+{
+  "uuid": "4db77e34-b55d-49c1-b720-28c946db2468",
+  "shortName": "watchface",
+  "longName": "watchface",
+  "companyName": "Pierre Beaucamp",
+  "versionLabel": "0.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "KEY_TEMPERATURE": 0,
+    "KEY_CONDITIONS": 1
+  },
+  "capabilities": [
+    "location"
+  ],
+  "resources": {
+    "media": []
+  }
+}
